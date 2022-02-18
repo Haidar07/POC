@@ -12,6 +12,5 @@ namespace POCApp.Models
         public string LastName { get; set; }
         public DateTime DateOfEnrollment { get; set; }
         public string Major { get; set; }
-
     }
 }

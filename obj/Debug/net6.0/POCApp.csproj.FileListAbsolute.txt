@@ -32,3 +32,10 @@ D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Npgsql.dll
 D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Humanizer.dll
 D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Plain.RabbitMQ.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Monty\POCApp\POCApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
